@@ -20,26 +20,3 @@ Crafting beautiful and functional user interfaces with a passion for clean code.
 
 Want to see my code in action? Check out my repositories below!
 Let's collaborate on something awesome! (feel free to reach out)
-
----
-```
- _____________
-< hello world >
- -------------
-      \                    / \  //\
-       \    |\___/|      /   \//  \\
-            /0  0  \__  /    //  | \ \
-           /     /  \/_/    //   |  \  \
-           @_^_@'/   \/_   //    |   \   \
-           //_^_/     \/_ //     |    \    \
-        ( //) |        \///      |     \     \
-      ( / /) _|_ /   )  //       |      \     _\
-    ( // /) '/,_ _ _/  ( ; -.    |    _ _\.-~        .-~~~^-.
-  (( / / )) ,-{        _      `-.|.-~-.           .~         `.
- (( // / ))  '/\      /                 ~-. _ .-~      .-~^-.  \
- (( /// ))      `.   {            }                   /      \  \
-  (( / ))     .----~-.\        \-'                 .~         \  `. \^-.
-             ///.----..>        \             _ -~             `.  ^-`  ^-_
-               ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-~
-                                                                  /.-~
-```
